@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @cdfricke
 - 👀 I’m interested in physics, astronomy, and learning how to write and use computer applications in these scientific fields!
-- 🌱 I’m currently learning C++ and Python for academic and personal purposes.
+- 🌱 I’m currently using C/C++, Python, and Verilog for academic and personal purposes.
 - 📫 How to reach me : cd.fricke23@gmail.com
