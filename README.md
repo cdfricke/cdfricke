@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cdfricke
-- 👀 I’m interested in physics, astronomy, and learning how to write and use computer applications in these scientific fields!
-- 🌱 I’m currently using C/C++, Python, and Verilog for academic and personal purposes.
-- 📫 How to reach me : cd.fricke23@gmail.com
+Hello, I'm @cdfricke! \\
+I am a senior undergraduate student studying __Physics, Astrophysics and Computer Science__. \\
+I currently use Python, C/C++, and Verilog for data analysis, computational physics, and my thesis research: _"Resource-Efficient DFTs via the Goertzel Algorithm for Continuous-Wave Detection with FPGAs"_ \\
+You can reach me at: fricke.59@osu.edu
