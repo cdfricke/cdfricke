@@ -4,7 +4,7 @@
 :books: I studied ___Physics, Astrophysics and Computer Science___ at Ohio State University. \
 :computer: I currently use _Python, C/C++, and Verilog_ to keep my skills sharp in data analysis and computational physics!\
 :compass: You can reach me at: \
-&emsp :red_circle: fricke.59@osu.edu :red_circle: \
-&emsp :blue_book: cdf5431@psu.edu :blue_book:
+&emsp; :red_circle: fricke.59@osu.edu\
+&emsp; :blue_book: cdf5431@psu.edu
 
 ![alt text](https://github.com/cdfricke/cdfricke/blob/main/psu-mark-280.png)
