@@ -7,4 +7,4 @@
 :red_circle: fricke.59@osu.edu :red_circle: \
 :blue_book: cdf5431@psu.edu :blue_book:
 
-![alt text](https://github.com/cdfricke/cdfricke/blob/main/download.png)
+![alt text](https://github.com/cdfricke/cdfricke/blob/main/download.jpg)
